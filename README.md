@@ -1,1 +1,7 @@
-# An-lisis_Datos_Pista8
+# ANÁLISIS DE DATOS
+Realización de análisis de datos, donde se hizo una actualización de perfil y comparación cualitativa de las postulantes de un programa donde se busca capacitar a la mujer emprendedora.
+En este análisis se hizo una previa categorización de ciertas columnas con un análisis NLP usando el lenguaje de programación Python. Para más detalle vea [el siguiente código](https://github.com/MicaelaCallahuanca/Analisis_Datos_Pista8/blob/main/NLP.ipynb).
+Para las visualizaciones se utilizó Power BI donde se usó gráfico de barras, mapas, entre otras visualizaciones. Presione [acá]() para descargar el archivo, tenga en cuenta que previamente tiene que tener instalado Power BI para poder verlo.
+En dicha herramienta de visualizaciones se realizó la carga de datos, limpieza y transformación. En la limpieza se renombró columnas, se hizo una asignación de los datos vacios a las siglas "SD", que significan "Sin Dato", debido a que se encontraron filas donde el usuario no rellenó el campo. En el caso de la columna llamada 'Ciudad_Residencia' se reemplazó el valor Santa Cruz por Santa Cruz de la Sierra con el fin de solucionar el problema de ubicación que se tenía en el mapa.
+
+Respecto a las visualizaciones del dashboard, se cumplió con el manual de marca de la empresa. Se seleccionó un color para el fondo del lienzo, otro para el relleno de barras o segmentos, y otro para el color de las letras. Como tipografía se aplicó gotham medium. Como logo se usó uno de los que estaban en la selección. Para más información presione [acá](https://github.com/MicaelaCallahuanca/Analisis_Datos_Pista8/blob/main/Manual%20de%20marca.pdf) donde será redirigido al pdf con las selecciones.
