@@ -1,0 +1,22 @@
+NOMBRE ORGINAL DE COLUMNA;NOMBRE ASIGNADO A COLUMNA
+¿En qué rango de edad te encuentras?;Rango_Etario
+Ciudad de residencia;Ciudad_Residencia
+¿Cuál es tu motivación y/ó expectativa para postular al programa Track de mujeres?;Categorizacion_Motivacion_Expectativa_Postulacion
+Grado máximo de estudios alcanzados;Grado_Maximo_Estudio
+¿Con qué definición te identificas actualmente?;Estado_Laboral
+Actualmente, ¿Cuáles son las 3 habilidades,  fortalezas o conocimientos que destacarías de ti?;Categoria_Habilidades_Destacadas
+¿Qué habilidades o conocimientos podrías o te gustaría adquirir o mejorar a través del programa?;Categorizacion_Habilidad_Adquisicion
+Actualmente, ¿Cuál es su fuente de ingresos?;Fuente_Ingresos
+¿Tienes acceso a una computadora e internet?;Acceso_Computadora_Internet
+¿Tienes disponibilidad de asistir presencialmente 2 días seguidos a un taller (entre junio/julio y agosto)?;Posibilidad_Asistencia_Presencial
+¿Qué días tienes mayor disponibilidad de tiempo para capacitarte o asistencia a eventos?;Dias_Disponibilidad_Asistencia
+¿Cuál seria el horario de preferencia?;Turno_Preferencial
+¿Hace cuánto tiempo iniciaste en el mundo del emprendimiento?;Antiguedad_Inicio_Sector_Emprendedor
+Nombre del emprendimiento;Nombre_Emprendimiento
+Breve descripción en un párrafo del emprendimiento.;Descripcion_Emprendimiento
+Rubro del emprendimiento;Rubro_Emprendimiento
+Antigüedad de tu emprendimiento en el que trabajas actualmente;Antiguedad_Emprendimiento
+¿Cuántas personas conforman tu emprendimiento actualmente? ;Personal_Emprendimiento
+¿Cómo te enteraste del programa Track Mujeres;Medio_Conocimiento_Programa
+¿Dónde sueles buscar y compartir información? ¿Tienes alguna red social o plataforma favorita para mantenerte al día?;Red_Social_Usada
+SD;Sin Dato
